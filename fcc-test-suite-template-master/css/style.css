@@ -1,0 +1,42 @@
+
+body{
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+
+    font: size 1.6em;
+    line-height:1.5;
+    color:#333;
+}
+
+#main{
+    margin:30px 8px;
+    padding:50px;
+    border-radius:5px;
+    background:#eee;
+    width: 1200px;
+    margin-left: 80px;
+}
+main{
+    display:block;
+}
+#id{}
+#title{
+     text-align: center;
+    }
+    #title-name{ font-size: 50px;}
+    #title-discription{font-size:20px;
+    margin-top: 0px;}
+
+    #img-div{ background-color: white;
+    }
+#img-caption{ display: flex;
+    justify-content: center;
+    margin: auto;
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;  
+}
+    #here{font: size 30px;
+        font-weight: bold;}
+    #tribute{
+               display: block;
+       }
